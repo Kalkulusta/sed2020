@@ -5,10 +5,16 @@ import java.awt.*;
 
 public class Fooldal {
     private JPanel panel_bl0kk;
-    private JButton buttonGo;
+    private JButton buttonQuiz;
+    private JButton btnRanglista;
 
     private Fooldal() {
-        buttonGo.addActionListener(action -> {
+
+        btnRanglista.addActionListener(action -> {
+            new Rangsor().show();
+        });
+
+        buttonQuiz.addActionListener(action -> {
             new Quiz().show();
         });
     }

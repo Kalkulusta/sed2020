@@ -9,7 +9,8 @@ public class Quiz extends Form {
     private JTextPane code;
     private JFormattedTextField input;
     private JRadioButton radioButtonA, radioButtonB, radioButtonC, radioButtonD;
-    private JButton button1;
+    private JLabel label_a, label_b, label_c, label_d;
+    private JButton btnMehet;
 
     void show() {
         super.show("Quiz", panel1, new Dimension(750, 650));

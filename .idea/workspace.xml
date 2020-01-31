@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f92a408-37db-4689-8f9c-7a0e5647a88c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/view/Rangsor.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/Rangsor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ricsi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ricsi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sed2020/view/Fooldal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sed2020/view/Fooldal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sed2020/view/Quiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sed2020/view/Quiz.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/Fooldal.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Fooldal.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/Fooldal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Fooldal.java" afterDir="false" />
@@ -84,21 +88,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="-2" y="-18" width="1360" height="758" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1580473806744" />
-    <state width="1316" height="185" key="GridCell.Tab.0.bottom" timestamp="1580475163876">
+    <state width="1316" height="185" key="GridCell.Tab.0.bottom" timestamp="1580476331912">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1316" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580475163876" />
-    <state width="1316" height="185" key="GridCell.Tab.0.center" timestamp="1580475163874">
+    <state width="1316" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580476331912" />
+    <state width="1316" height="185" key="GridCell.Tab.0.center" timestamp="1580476331911">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1316" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580475163874" />
-    <state width="1316" height="185" key="GridCell.Tab.0.left" timestamp="1580475163873">
+    <state width="1316" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580476331911" />
+    <state width="1316" height="185" key="GridCell.Tab.0.left" timestamp="1580476331911">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1316" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580475163873" />
-    <state width="1316" height="185" key="GridCell.Tab.0.right" timestamp="1580475163875">
+    <state width="1316" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580476331911" />
+    <state width="1316" height="185" key="GridCell.Tab.0.right" timestamp="1580476331912">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1316" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580475163875" />
+    <state width="1316" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580476331912" />
+    <state x="345" y="173" key="run.anything.popup" timestamp="1580476230972">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="345" y="173" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1580476230972" />
   </component>
 </project>
