@@ -5,8 +5,7 @@ import java.awt.*;
 
 public class Fooldal {
     private JPanel panel_bl0kk;
-    private JButton buttonQuiz;
-    private JButton btnRanglista;
+    private JButton btnRanglista, btnBeiros, btnEgyvalaszos, btnTobbvalaszos;
 
     private Fooldal() {
 
@@ -14,8 +13,16 @@ public class Fooldal {
             new Rangsor().show();
         });
 
-        buttonQuiz.addActionListener(action -> {
-            new Quiz().show();
+        btnBeiros.addActionListener(action -> {
+            new Quiz(1).show();
+        });
+
+        btnEgyvalaszos.addActionListener(action -> {
+            new Quiz(2).show();
+        });
+
+        btnTobbvalaszos.addActionListener(action -> {
+            new Quiz(3).show();
         });
     }
 

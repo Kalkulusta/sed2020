@@ -12,6 +12,7 @@ public class Rangsor extends Form {
 
     private void createUIComponents() {
         dlm = new DefaultListModel<>();
+
         rangsor = new JList<>(dlm);
         rangsor.setModel(dlm);
         rangsor.ensureIndexIsVisible(dlm.getSize());
